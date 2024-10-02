@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+}
+
+.nav{
+    background-color: rgb(255, 212, 226);
+    text-align: center;
+    height: 25px;
+}
+
+
+.left-h video{
+    height: 70px;
+    width: 190px;
+}
+
+.right-h a{
+    text-decoration: none;
+    color: rgb(69, 69, 69);
+    margin: 10px;
+}
+
+
+#top{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(231, 235, 235);
+    margin: 5px 20px 0 20px;
+    border-radius: 10px 10px 0 0;
+    padding: 50px 60px 0 60px;
+    height:78vh;
+  
+}
+
+.left{
+    width: 50%;
+}
+
+.left h1{
+    font-size: 44px;
+    margin: 0 0 30px 50px;
+}
+.left span{
+    font-size: 18px;
+    margin: 0 0 0px 10px;
+    padding: 10px 0 20px 0;
+}
+.left .left-1{
+    padding: 0 0 10px 0;
+    margin: 0 0 0 50px;
+}
+.left .left-2{
+    padding: 10px 0 20px 0;
+    margin: 0 0 0 50px;
+}
+
+.left img{
+    height: 18px;
+    width: 18px;
+}
+.left .li{
+    padding: 40px 10px 10px 50px;
+}
+
+.left .li-s{
+    font-weight: bold;
+}
+.right{
+    width: 40%;
+    justify-content: center;
+    background-color: white;
+    width: 25vw;
+    display: flex;
+    border-radius: 10px;
+    height: 70vh;
+}
+.login{
+    justify-content: center;
+   display: flex;
+}
+form{
+    align-items: center;
+    justify-content: center;
+}
+form h2{
+    margin: 20px 0 0 70px;
+}
+.login input{
+    border: 1px solid gray;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#email{
+    margin: 10px 0 10px 0;
+    width: 20vw;
+}
+#password{
+    margin: 10px 0 10px 0;
+    width: 20vw;
+}
+#pin{ margin: 10px 0 10px 0;
+    width: 20vw;}
+#ser{
+    margin: 10px 0 10px 0;
+    width: 20vw;
+}
+
+
+.in-wp{
+    display: flex;
+}
+.in-wp img{
+    height: 16px;
+    width: 16px;
+}
+.in-wp p{
+    font-size: 14px;
+}
+form .sub-b button{
+    height: 50px;
+    width: 20vw;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    font-weight: 900;
+}
+form .sub-b img{
+    height: 20px;
+    width: 25px;
+    position: absolute;
+}
+
