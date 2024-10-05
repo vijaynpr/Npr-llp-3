@@ -11,7 +11,7 @@
     padding: 0 20px 0 20px;
 }
 
-.nav{
+.nav-1{
     background-color: rgb(255, 212, 226);
     text-align: center;
     height: 25px;
@@ -142,3 +142,244 @@ form .sub-b img{
     position: absolute;
 }
 
+
+
+.sec{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.sec h1{
+    margin: 20px;
+}
+.sec p{
+    font-size: 18px;
+}
+
+.sec-box{
+    display: flex;
+    flex-direction: row;
+}
+
+.box-1{
+    border: 1px solid rgb(188, 188, 188);
+    width: 250px;
+    height: 400px;
+    padding: 5px 10px 10px 5px;
+    margin-top: 30px;
+}
+.t-1 img{
+    margin: 10px;
+}
+.t-1 h2{
+    margin: 0 10px;
+    font-size: 24px;
+}
+.t-1 p{
+    margin: 15px 10px 10px 10px;
+    font-size: 14px;
+}
+
+.log{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px 20px 10px;
+}
+
+.log-3 img{
+    height: 30px;
+    width: 50px;
+}
+.log-3 p{
+   
+    color: rgb(122, 122, 122);
+    font-size: 13px;
+    font-weight: 700;
+}
+.log-4 img{
+    height: 30px;
+    width: 130px;
+}
+.log-4 p{
+    
+    color: rgb(122, 122, 122);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.log-1 img{
+    justify-content: center;
+    align-items: center;
+}
+.log-1 p{
+    justify-content: center;
+    text-align: center;
+    color: rgb(122, 122, 122);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.log-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px 10px 0;
+}
+.log-2 img{
+    margin: 5px;
+}
+.log-2 p{
+    align-items: center;
+    display: flex;
+    font-size: 13px;
+}
+
+
+
+.sec-3{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.topp{
+    font-size: 20px;
+    margin: 30px;
+}
+.num{
+    display: flex;
+}
+
+.num-1{
+  padding: 0 40px;
+}
+
+.num-1 h1{
+    font-size: 36px;
+}
+.num-1 p{
+    font-size: 18px;
+    color: rgb(121, 121, 121);
+}
+.num-1 span{
+    color: yellow;
+}
+
+
+.sec-4{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0 0 0;
+}
+
+
+
+.sec-5{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#pills-tab{
+    background-color: rgb(197, 255, 255);
+    margin: 30px 10px;
+    height: 90px;
+    width: 30vw;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.nav-item button{
+    color: black;
+    font-weight: 700;
+}
+
+
+#pills-contact-1 a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+#pills-contact-1 p{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+#pills-contact{
+    display: flex;
+}
+
+.sec-6{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.f-0{
+    display: flex;
+}
+.f-2{
+    border: 1px solid gray;
+    width: 20vw;
+    padding: 10px;
+    margin: 0 10px 0 10px;
+}
+
+.f-3{
+    display: flex;
+    justify-content: space-between;
+}
+.f-3 h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.right-h img{
+    height: 30px;
+    width: 30px;
+}
+
+
+
+.uppp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 30px 50px 30px;
+  }
+
+  .conn-1{
+    margin: 10px 50px 10px 200px;
+    width: 69vw;
+    justify-content: center;
+    align-items: center;
+  }
+  .conn-1 details{
+    text-decoration: none;
+    color: rgb(151, 144, 144);
+    font-size: 12px;
+  }
+  .conn-1 details span{
+    color: black;
+    font-size: 16px;
+  }
+  .conn-1 summary {
+    padding-top: 2px;
+  }
+
+
+  .clear{
+    border: 1px solid rgb(80, 79, 79);
+    width:70%;
+    margin: 2px 0 0 200px;
+  
+  }
